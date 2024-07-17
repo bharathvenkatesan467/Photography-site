@@ -1,0 +1,157 @@
+.head{
+    background-color: #BBE9FF;
+    position: fixed;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    margin: 40px 30px 0px 0px;
+}
+li{
+    display: inline;
+    margin: 40px;
+    font-style: arial;
+    font-size: 20px;
+    font-weight: 2px;
+    word-spacing: 8px;
+    letter-spacing: 2px;
+}
+.a111{
+    text-decoration: none;
+}
+.a111:hover{
+    color:#F7F9F2;
+}
+
+.a1{
+    background-color: #BBE9FF;
+    padding-top: 40px;
+    
+}
+.a{
+    background-color: #BBE9FF;
+    padding-top: 40px;
+
+}
+.a1:hover{
+    color: #F7F9F2;
+    border-radius: 20px;
+}
+.a:hover{
+    color: #F7F9F2;
+    border-radius: 20px;
+}
+.d2{
+    float:right;
+}
+body{
+    background-color: #F7F9F2;
+    margin:0px;
+    padding: 50px 0px 60px;
+}
+.about{
+    background-color: #F7F9F2;
+    text-align: center;
+}
+.p1{
+    font-size: x-large;
+}
+.d3{
+    text-align: center;
+}
+.m1{
+    text-decoration: underline;
+    background-color: #c5d8e1;
+    font-size: larger;
+    color: white;
+}
+.mm1{
+    color: black;
+}
+.b1{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    width: 60px;
+    height: 40px;
+    border-radius: 5px;
+}
+.b1:hover{
+    background-color: aqua;
+    color: red;
+}
+.h0{
+    font-weight: bold;
+    text-align: center;
+}
+.d4{
+    background-color:#F7F9F2;
+}
+.f1{
+    background-color:#BBE9FF;
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.im1{
+    padding: 4px;
+}
+.d9{
+    text-align: center;
+}
+form{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    bottom: 0%;
+    width: 100%;
+    border-radius: 5px;
+    background-color: #c5d8e1;
+    border:none;
+}
+.df{
+    margin: 0px 600px;
+}
+.f2{
+    padding-bottom: 0px;
+}
+.art{
+    display:flex;
+}
+.art1{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+label{
+    display: block;
+}
+
+input{
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px 0px;
+}
+input:focus{
+    background-color: #F7F9F2;
+    
+}
+.im1{
+    margin-top: 2px;
+}
+button{
+    background-color:#F7F9F2;
+    border: none;
+}
+.d3{
+    background-color: #c5d8e1;
+    color: black;
+}
